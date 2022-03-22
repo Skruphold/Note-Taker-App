@@ -3,7 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Description 
-This application was built so that a user can enter a title for a note. Then a description for that note and be able to save it so they can view it later. They can also re-visit the note and still use the plus button to open a new note. The user can also hit the delete button to remove a not if at all necessary. 
+This application was built so that a user can enter a title for a note. Then a description for that note and be able to save it so they can view it later. They can also re-visit the note and still use the plus button to open a new note. The user can also hit the delete button to remove a note if at all necessary. 
 
 ## Deployed Application
 [Note taker](https://dry-stream-10950.herokuapp.com/)
